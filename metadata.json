@@ -1,0 +1,10 @@
+{
+  "name": "Kalamuna - Maharah Kalam Kelas 7 At-Ta'aruf",
+  "description": "Aplikasi Pembelajaran Bahasa Arab Interaktif Maharah Kalam Kelas 7 MTs Materi At-Ta'aruf Berdasarkan Buku Kemenag RI",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
